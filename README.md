@@ -14,7 +14,6 @@
   <img alt="Cisco" src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
   <img alt="CI/CD" src="https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=gitlab&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="DevOps" src="https://img.shields.io/badge/-DevOps-0071C5?style=flat-square&logo=devops&logoColor=white" />
 </p>
 
 
