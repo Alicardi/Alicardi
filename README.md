@@ -16,16 +16,13 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="DevOps" src="https://img.shields.io/badge/-DevOps-0071C5?style=flat-square&logo=devops&logoColor=white" />
 </p>
-<p>
-  <a href="https://t.me/alicardi" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40alicardi-28a8ea"></a>
-</p>
 
 
 Я - человек, который:
 
-- 📚 Обучается в Школе Программирования 21 от Сбера
+- 📚 Обучается в [Школе Программирования 21 от Сбера](https://21-school.ru/)
 - 👨‍🎓 Учится в КубГАУ на Прикладной Информатике (4 курс бакалавриата)
-- ✍️ Ведет свой маленький Telegram-канал
+- ✍️ Ведет свой маленький [Telegram-канал](https://t.me/kidneyha)
 - 💪 Ведет здоровый образ жизни
 
 ---
@@ -45,4 +42,9 @@
 #### Python проекты
 - Loading...
 
-### 🚀 Проекты
+<h3>📬 Связь</h3>
+<p>Если у тебя есть вопросы, предложения, или ты просто хочешь поболтать, всегда рад общению!  
+Можешь написать мне в Telegram или Discord, я постараюсь ответить, как только смогу.</p>
+<p><a href="https://t.me/alicardi"><img src="https://img.shields.io/badge/Написать в Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
+<a href="https://discordapp.com/users/267805585049780225/"><img src="https://img.shields.io/badge/Написать в Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a></p>
+
