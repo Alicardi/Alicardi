@@ -40,6 +40,7 @@
 
 #### Python проекты
 - [Stproject](https://github.com/Alicardi/Stproject)
+- [Бот Мурен](https://github.com/Alicardi/BotMurens)
 - Loading...
 
 ---
