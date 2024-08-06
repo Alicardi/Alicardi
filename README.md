@@ -28,7 +28,8 @@
 
 ### 🚀 Проекты
 
-
+#### Статистика языков
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alicardi&theme=solarized_dark) 
 
 #### C/C++ проекты
 - [3DViewer v1.0](https://github.com/Alicardi/3DViewer_v1.0)
