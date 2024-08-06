@@ -39,6 +39,7 @@
 - [AVN](https://github.com/Alicardi/AVN)
 
 #### Python проекты
+- [Stproject](https://github.com/Alicardi/Stproject)
 - Loading...
 
 ---
